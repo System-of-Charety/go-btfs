@@ -27,7 +27,7 @@ require (
 	github.com/coreos/go-systemd/v22 v22.1.0
 	github.com/dustin/go-humanize v1.0.0
 	github.com/elgris/jsondiff v0.0.0-20160530203242-765b5c24c302
-	github.com/ethereum/go-ethereum v1.10.3
+	github.com/ethereum/go-ethereum v1.10.22
 	github.com/ethersphere/go-sw3-abi v0.4.0
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/gabriel-vasile/mimetype v1.1.2
@@ -122,8 +122,8 @@ require (
 	github.com/prometheus/common v0.26.0
 	github.com/shirou/gopsutil/v3 v3.20.12
 	github.com/status-im/keycard-go v0.0.0-20200402102358-957c09536969
-	github.com/stretchr/testify v1.7.0
-	github.com/syndtr/goleveldb v1.0.1-0.20210305035536-64b5b1c73954
+	github.com/stretchr/testify v1.7.2
+	github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
 	github.com/thedevsaddam/gojsonq/v2 v2.5.2
 	github.com/tron-us/go-btfs-common v0.8.10
 	github.com/tron-us/go-common/v2 v2.3.0
@@ -137,10 +137,10 @@ require (
 	go.uber.org/fx v1.13.1
 	go.uber.org/zap v1.18.1
 	go4.org v0.0.0-20200411211856-f5505b9728dd
-	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e
-	golang.org/x/net v0.0.0-20210614182718-04defd469f4e
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.0.0-20220607020251-c690dde0001d
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
+	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a
 	gopkg.in/cheggaaa/pb.v1 v1.0.28
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/yaml.v2 v2.4.0
